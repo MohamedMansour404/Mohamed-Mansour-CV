@@ -4,7 +4,7 @@
 📍 Tanta, Egypt  
 📧 [mohamedmansour.personal1@gmail.com](mailto:mohamedmansour.personal1@gmail.com)  
 📞 01013073767  
-🔗 [LinkedIn](www.linkedin.com/in/mohamed-mansour-232333346) • [GitHub](https://github.com/MohamedMansour404)
+🔗 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-mansour-232333346) • [GitHub](https://github.com/MohamedMansour404)
 
 ---
 
