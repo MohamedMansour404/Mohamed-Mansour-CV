@@ -1,5 +1,5 @@
 # 👨‍💻 Mohamed Mansour  
-**Backend Engineer | Node.js | TypeScript | MongoDB**
+**Backend Engineer**
 
 📍 Tanta, Egypt  
 📧 [mohamedmansour.swe@gmail.com](mailto:mohamedmansour.swe@gmail.com)  
