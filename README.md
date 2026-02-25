@@ -9,9 +9,10 @@
 ---
 
 ## 🧭 Profile  
-Computer Science student with a strong interest in backend engineering and a solid foundation in technical skills.  
-I bring a multidisciplinary mindset that blends technology, business understanding, and leadership.  
-I'm passionate about building efficient backend systems, automating workflows, and contributing to impactful products while continuing to grow as both an engineer and a future leader.
+Backend Software Engineer with a focus on building scalable backend systems using NestJS, Node.js, and 
+Express. Interested in software engineering beyond coding, particularly in how backend architecture impacts 
+product quality and business outcomes. Participated in large-scale hackathons and achieved top 10 rankings, 
+gaining strong experience in teamwork, problem-solving, and delivering solutions under pressure.
 
 ---
 
