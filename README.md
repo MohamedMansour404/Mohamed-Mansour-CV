@@ -2,9 +2,9 @@
 **Backend Engineer | Node.js | TypeScript | MongoDB**
 
 📍 Tanta, Egypt  
-📧 [mohamedmansour.personal1@gmail.com](mailto:mohamedmansour.personal1@gmail.com)  
+📧 [mohamedmansour.swe@gmail.com](mailto:mohamedmansour.swe@gmail.com)  
 📞 01013073767  
-🔗 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-mansour-232333346) • [GitHub](https://github.com/MohamedMansour404)
+🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-mansour-232333346) • [GitHub](https://github.com/MohamedMansour404)
 
 ---
 
@@ -26,10 +26,19 @@ I'm passionate about building efficient backend systems, automating workflows, a
 
 ## 💼 Professional Experience  
 
+### 🚀 Backend Intern – Appout ITS  
+- Appout is a technology firm specializing in AI-powered business solutions and omnichannel communication platforms, including RoboDesk.  
+- Participating in a rotation program covering the full SDLC, with exposure to Operations, QC, Product Ownership (PO), AI, and DevOps.  
+- Gained practical insights into professional engineering standards, focusing on turning requirements into production-ready code.
+
+---
+
 ### 🛠️ Ghaymah Systems – DevOps Training  
 **Duration:** 09/2025 – 10/2025  
 - Gained hands-on experience with cloud infrastructure and CI/CD pipelines using **Docker**.  
 - Learned DevOps fundamentals including deployment automation and server monitoring.
+
+---
 
 ### 🤖 Artificial Intelligence Intern – NTI / Huawei Egyptian Talent Academy  
 **Ministry of Communications and Information Technology**  
@@ -37,10 +46,12 @@ I'm passionate about building efficient backend systems, automating workflows, a
 - Completed an **80-hour** training program with a **100% score**.  
 - Acquired strong foundations in AI concepts, Python, and machine learning principles.
 
+---
+
 ### 🌐 Internet of Things (IoT) – ITI Summer Training  
 **Information Technology Institute**  
 **Duration:** 09/2025 – 09/2025  
-- Gained practical exposure to IoT systems and device communication fundamentals.  
+- Gained practical exposure to IoT systems and device communication fundamentals.
 
 ---
 
